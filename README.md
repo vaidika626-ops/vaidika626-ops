@@ -7,7 +7,7 @@
 </h3>
 
 <p align="center">
-  <img src=https://share.google/78GlOe84BhnFGz3Eq/
+  <img src=Photo by Snow Chang from Pexels: https://www.pexels.com/photo/playful-giant-panda-in-natural-habitat-setting-30704587//
 ---
 
 ## 👩‍💻 About Me
