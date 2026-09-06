@@ -7,9 +7,7 @@
 </h3>
 
 <p align="center">
-  <img src=https://www.pexels.com/photo/giant-panda-relaxing-and-eating-bamboo-in-lush-habitat-30356870/ alt="Typing SVG" />
-</p>
-
+  <img srchttps://share.google/XhWDRiQREz4CybxS
 ---
 
 ## 👩‍💻 About Me
