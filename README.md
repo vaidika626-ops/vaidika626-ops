@@ -7,7 +7,7 @@
 </h3>
 
 <p align="center">
-  <img srchttps://share.google/XhWDRiQREz4CybxS
+  <img src=Photo by Star Zhang from Pexels: https://www.pexels.com/photo/panda-at-the-zoo-19273031/
 ---
 
 ## 👩‍💻 About Me
