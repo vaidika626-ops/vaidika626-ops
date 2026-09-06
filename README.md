@@ -7,7 +7,7 @@
 </h3>
 
 <p align="center">
-  <img src=https://www.istockphoto.com/photo/giant-panda-baby-cub-in-chengdu-area-china-gm539113690-96047311?searchscope=image%2Cfilm alt="Typing SVG" />
+  <img src=https://www.pexels.com/photo/giant-panda-relaxing-and-eating-bamboo-in-lush-habitat-30356870/ alt="Typing SVG" />
 </p>
 
 ---
