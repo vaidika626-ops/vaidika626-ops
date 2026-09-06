@@ -7,7 +7,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=MCA+Student+%40+IIPS%2C+DAVV;C+Programming+Enthusiast;Learning+Data+Structures;Exploring+Software+Development;Building+My+Coding+Journey+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src=https://www.istockphoto.com/photo/giant-panda-baby-cub-in-chengdu-area-china-gm539113690-96047311?searchscope=image%2Cfilm alt="Typing SVG" />
 </p>
 
 ---
