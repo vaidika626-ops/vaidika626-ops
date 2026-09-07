@@ -1,92 +1,143 @@
-👋 Hi, I'm Vaidika Acharya!
+👋 Hi, I'm Vaidika Acharya
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=MCA+Student+at+IIPS%2C+DAVV;Aspiring+Software+Developer;DSA+%7C+Programming+%7C+Development;Always+Learning+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=MCA+Student+%7C+IIPS%2C+DAVV;C+Programming+Learner;Learning+Git+%26+GitHub;Building+My+Developer+Journey+%F0%9F%9A%80" />
 </p><p align="center">
-  🎓 <b>MCA 1st Semester Student at IIPS, DAVV</b><br>
-  💻 Aspiring Software Developer &nbsp;|&nbsp; 🧩 Problem Solver &nbsp;|&nbsp; 🌱 Learner
+  🎓 <b>MCA 1st Semester Student at IIPS, DAVV</b>
+</p><p align="center">
+  🌱 Learning • 💻 Practicing • 🚀 Growing
 </p>---
 
 👩‍💻 About Me
 
-- 🎓 Currently pursuing MCA (1st Semester) at IIPS, DAVV
-- 💻 Passionate about Programming and Software Development
-- 🧩 Improving my Data Structures & Algorithms skills
-- 🌱 Learning new technologies and building projects
-- 🏆 Practicing coding on competitive programming platforms
-- 🚀 Working towards becoming a skilled software developer
+Hi! I'm Vaidika Acharya, currently pursuing MCA (1st Semester) at IIPS, DAVV.
+
+I'm at the beginning of my developer journey and currently focusing on building a strong foundation in C programming and learning how to use Git and GitHub effectively.
+
+I use VS Code as my development environment and I'm continuously learning through practice and small projects.
 
 ---
 
-🌐 Connect With Me
+🛠️ Skills & Tools
 
-<p align="center"><a href="https://www.linkedin.com/in/vaidika-acharya-b8138b42b?utm_source=share_via&utm_content=profile&utm_medium=member_android">
-<img src="https://img.shields.io/badge/LinkedIn-Vaidika%20Acharya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a><a href="https://www.geeksforgeeks.org/community/profile/vaidik2t7y/">
-<img src="https://img.shields.io/badge/GeeksforGeeks-vaidik2t7y-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white">
-</a><a href="https://share.google/2IRkqxO5x2GCK9oSw">
-<img src="https://img.shields.io/badge/HackerRank-vaidika626-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black">
-</a><a href="https://github.com/Vaidika626-ops">
-<img src="https://img.shields.io/badge/GitHub-Vaidika626--ops-181717?style=for-the-badge&logo=github&logoColor=white">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,git,github,vscode" />
+</p>Technology / Tool| Level
+💻 C| 🌱 Learning
+🔧 Git| 🌱 Learning
+🐙 GitHub| 🌱 Learning
+📝 VS Code| 🛠️ Using
+
+---
+
+🌐 My Profiles
+
+<p align="center"><a href="https://github.com/Vaidika626-ops">
+<img src="https://cdn.simpleicons.org/github" width="45" alt="GitHub"/>
+</a>
+&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/vaidika-acharya-b8138b42b?utm_source=share_via&utm_content=profile&utm_medium=member_android">
+<img src="https://cdn.simpleicons.org/linkedin" width="45" alt="LinkedIn"/>
+</a>
+&nbsp;&nbsp;&nbsp;<a href="https://leetcode.com/u/vaidika_acharya24">
+<img src="https://cdn.simpleicons.org/leetcode" width="45" alt="LeetCode"/>
+</a>
+&nbsp;&nbsp;&nbsp;<a href="https://www.geeksforgeeks.org/community/profile/vaidik2t7y/">
+<img src="https://cdn.simpleicons.org/geeksforgeeks" width="45" alt="GeeksforGeeks"/>
+</a>
+&nbsp;&nbsp;&nbsp;<a href="https://share.google/2IRkqxO5x2GCK9oSw">
+<img src="https://cdn.simpleicons.org/hackerrank" width="45" alt="HackerRank"/>
 </a></p>---
 
-🧑‍💻 My Coding Profiles
+🧑‍💻 Coding & Professional Profiles
 
-<p align="center">🌐 Platform| 👤 Username| 🔗 Profile
-🐙 GitHub| "Vaidika626-ops"| "Visit Profile" (https://github.com/Vaidika626-ops)
-🟢 GeeksforGeeks| "vaidik2t7y"| "Visit Profile" (https://www.geeksforgeeks.org/community/profile/vaidik2t7y/)
-🟩 HackerRank| "vaidika626"| "Visit Profile" (https://share.google/2IRkqxO5x2GCK9oSw)
-💼 LinkedIn| "Vaidika Acharya"| "Visit Profile" (https://www.linkedin.com/in/vaidika-acharya-b8138b42b?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+Platform| Username / Name| Profile
+🐙 GitHub| "Vaidika626-ops"| "View Profile" (https://github.com/Vaidika626-ops)
+💻 LeetCode| "vaidika_acharya24"| "View Profile" (https://leetcode.com/u/vaidika_acharya24)
+🟢 GeeksforGeeks| "vaidik2t7y"| "View Profile" (https://www.geeksforgeeks.org/community/profile/vaidik2t7y/)
+🟩 HackerRank| "vaidika626"| "View Profile" (https://share.google/2IRkqxO5x2GCK9oSw)
+💼 LinkedIn| "Vaidika Acharya"| "View Profile" (https://www.linkedin.com/in/vaidika-acharya-b8138b42b)
 
-</p>---
-
-🛠️ Tech Stack
-
-<p align="center"><img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,git,github,vscode" /></p>---
+---
 
 📚 Currently Learning
 
-<p align="center"><img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-Learning-orange?style=for-the-badge">
-<img src="https://img.shields.io/badge/Problem%20Solving-Improving-blue?style=for-the-badge">
-<img src="https://img.shields.io/badge/Web%20Development-Learning-green?style=for-the-badge"></p>---
+💻 C Programming
+🔧 Git
+🐙 GitHub
+📝 VS Code
 
-📊 GitHub Statistics
+---
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Vaidika626-ops&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /></p><p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaidika626-ops&layout=compact&theme=tokyonight&hide_border=true" /></p>---
+🎯 My Goals
+
+- 📚 Strengthen my C programming fundamentals
+- 🔧 Learn Git commands and workflows
+- 🐙 Improve my GitHub profile and workflow
+- 💻 Build small projects using C
+- 🌱 Learn consistently throughout my MCA journey
+- 🚀 Gradually explore new technologies
+
+---
+
+📂 My Projects
+
+🚧 Projects coming soon...
+
+I'm currently building my programming foundation and will be adding projects to my GitHub as I learn.
+
+---
+
+📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vaidika626-ops&show_icons=true&theme=tokyonight&hide_border=true" />
+</p><p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaidika626-ops&layout=compact&theme=tokyonight&hide_border=true" />
+</p>---
 
 🔥 GitHub Streak
 
-<p align="center"><img src="https://streak-stats.demolab.com?user=Vaidika626-ops&theme=tokyonight&hide_border=true" /></p>---
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Vaidika626-ops&theme=tokyonight&hide_border=true" />
+</p>---
 
-🏆 GitHub Trophies
+🌱 My Learning Journey
 
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Vaidika626-ops&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" /></p>---
-
-🚀 2026 Goals
-
-- 🎯 Strengthen programming fundamentals
-- 🧩 Master Data Structures & Algorithms
-- 💻 Build real-world projects
-- 🌐 Improve Web Development skills
-- 🏆 Stay consistent on coding platforms
-- 🌱 Contribute to Open Source
-- 💼 Prepare for internships
-- 🚀 Become a better software developer
-
----
-
-📂 Featured Projects
-
-🚧 Projects coming soon!
-
-I'm currently learning and building projects as part of my MCA journey.
-
-«More exciting projects will be added here soon. 🚀»
+🎓 MCA @ IIPS, DAVV
+        │
+        ▼
+💻 C Programming
+        │
+        ▼
+🔧 Git
+        │
+        ▼
+🐙 GitHub
+        │
+        ▼
+📝 Projects
+        │
+        ▼
+🚀 Growing as a Developer
 
 ---
 
-📈 My Developer Journey
+💭 Developer Mindset
 
-        🎓 MCA @ IIPS, DAVV
-                 │
-                 ▼
+«Learn → Practice → Build → Improve → Repeat 🔄»
+
+---
+
+👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Vaidika626-ops&label=Profile%20Views&style=for-the-badge" />
+</p>---
+
+<p align="center">
+  🌱 <b>Learning C</b> &nbsp; • &nbsp;
+  🔧 <b>Using Git</b> &nbsp; • &nbsp;
+  🐙 <b>Building on GitHub</b>
+</p><p align="center">
+  ⭐ <b>Thanks for visiting my profile!</b> ⭐
+</p>
